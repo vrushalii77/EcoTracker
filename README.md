@@ -4,7 +4,7 @@
 > 📌 Note: This project is focused on implementing and understanding the core CRUD (Create, Read, Update, Delete) operations using Spring Boot and MySQL.
 
 
-**EcoTracker** is a Spring Boot backend application designed to promote eco-friendly living by tracking and managing sustainable activities.
+**EcoTracker** is a Spring Boot backend application designed to promote eco-friendly living by tracking and managing sustainable activities. 
 
 ## 💡 Features
 
